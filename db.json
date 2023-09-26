@@ -1,0 +1,43 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "nguyen vi khang",
+      "status": 0,
+      "price": 200,
+      "discription": "ko ngon nha ma "
+    },
+    {
+      "id": 2,
+      "name": "nguyen vi g",
+      "status": 0,
+      "price": 200,
+      "discription": "ko ngon nha ma "
+    },
+    {
+      "id": 3,
+      "name": "nguyen vi d",
+      "status": 0,
+      "price": 200,
+      "discription": "ko ngon nha ma "
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "nguyen vi khang"
+    },
+    {
+      "id": 2,
+      "name": "nguyen vi g"
+    },
+    {
+      "id": 3,
+      "name": "nguyen vi d"
+    },
+    {
+      "id": 4,
+      "name": "nguyen van b"
+    }
+  ]
+}
