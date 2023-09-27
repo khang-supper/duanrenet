@@ -75,7 +75,7 @@ export const Slide = () => {
           {/* section title */}
           <div className="col-md-12">
             <div className="section-title">
-              <h3 className="title">New Products</h3>
+              <h3 className="title">product</h3>
               <div className="section-nav">
                 <ul className="section-tab-nav tab-nav">
                   <li className="active">
