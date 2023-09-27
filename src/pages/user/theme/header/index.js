@@ -29,7 +29,12 @@ export const Header = () => {
             </li>
             <li>
               <a href="#">
-                <i className="fa fa-user-o" /> My Account
+                <i className="fa fa-user-o" /> đăng ký
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i className="fa fa-user-o" /> đăng nhập
               </a>
             </li>
           </ul>
@@ -46,7 +51,7 @@ export const Header = () => {
             <div className="col-md-3">
               <div className="header-logo">
                 <a href="#" className="logo">
-                  <img src="./img/logo.png" alt="" />
+                  <img src="./img/logo.png" alt="" width="100px"/>
                 </a>
               </div>
             </div>
@@ -155,5 +160,6 @@ export const Header = () => {
       </div>
       {/* /MAIN HEADER */}
     </header>
+    
   );
 };

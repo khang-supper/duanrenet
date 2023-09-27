@@ -31,7 +31,7 @@ const Footer = () => {
                     <li>
                       <a href="#">
                         <i className="fa fa-envelope-o" />
-                        email@email.com
+                        khang.nguyen@gmail.com
                       </a>
                     </li>
                   </ul>
@@ -149,13 +149,13 @@ const Footer = () => {
                   </li>
                 </ul>
                 <span className="copyright">
-                  {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                  {/* Link back to  Github.com can't be removed. Template is licensed under CC BY 3.0. */}
                   Copyright © All rights reserved | This template is made with{" "}
                   <i className="fa fa-heart-o" aria-hidden="true" /> by{" "}
-                  <a href="https://colorlib.com" target="_blank">
-                    Colorlib
+                  <a href="https://github.com/khang-supper/duanrenet" target="_blank">
+                    Github.com
                   </a>
-                  {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                  {/* Link back to  Github.com can't be removed. Template is licensed under CC BY 3.0. */}
                 </span>
               </div>
             </div>
