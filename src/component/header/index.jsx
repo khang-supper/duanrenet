@@ -1,5 +1,6 @@
-export const Header = () => {
+const Header = () => {
   return (
+    <>   
     <header>
       {/* TOP HEADER */}
       <div id="top-header">
@@ -160,6 +161,8 @@ export const Header = () => {
       </div>
       {/* /MAIN HEADER */}
     </header>
+    </>
     
   );
 };
+export default Header;
